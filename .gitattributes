@@ -2,3 +2,4 @@
 *.sch linguist-detectable=true
 *.xml linguist-detectable=true
 *.pcb linguist-detectable=true
+*.kicad_pcb linguist-detectable=true
